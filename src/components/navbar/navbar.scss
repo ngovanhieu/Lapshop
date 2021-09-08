@@ -1,0 +1,21 @@
+.menu{
+    width: 100%;
+    padding: 36px;
+    background-color: rgb(30, 67, 235);
+    display: flex;
+    justify-content: center;
+    img {
+       width: 50px;
+     }
+    ul{
+        display: flex;
+        margin-left: 60%;
+    }
+    ul li {
+        list-style: none;
+        margin: 0px 20px;
+        color: #b2b1b1;
+        cursor: pointer;
+        
+      }
+}
